@@ -1,0 +1,9 @@
+mods/data/twisted twins/twisted twins-amd.json
+mods/data/twisted twins/twisted twins-crybaby.json
+mods/data/twisted twins/twisted twins-hopeless.json
+mods/data/twisted twins/twisted twins-mad.json
+mods/data/twisted twins/twisted twins.json
+mods/songs/twisted twins/Voices.ogg
+mods/songs/twisted twins/Inst.ogg
+mods/songs/twisted twins/voices.ogg
+mods/songs/twisted twins/inst.ogg
